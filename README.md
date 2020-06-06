@@ -1,4 +1,5 @@
-# **Deep Learning models for Credibility Detection**
+# **A Sociolinguistic route to the characterization and
+detection of the credibility of events on Twitter**
 
 Following models are used to predict the credibility of events on twitter using socio-linguistic feature with deep learning
 models.
