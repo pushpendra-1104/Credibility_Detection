@@ -1,2 +1,2 @@
 # Credibiltiy_Detection
-Deep Learning model for Credibility Detection
+Deep Learning models for Credibility Detection
