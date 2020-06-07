@@ -40,5 +40,5 @@ We release the code for train/finetuning the following models along with their h
 
 
 
-👍 This work was done when both authors of paper were at IIT Kharagpur !! 👍
+👍 This work was done when authors of paper were at IIT Kharagpur !! 👍
 
