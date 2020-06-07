@@ -40,6 +40,5 @@ We release the code for train/finetuning the following models along with their h
 
 
 
-👍 The repo is still in active developements. Feel free to create an issue !! 👍
-
+👍 This work was done when both authors of paper were at IIT Kharagpur !! 👍
 
