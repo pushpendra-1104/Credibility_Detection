@@ -10,7 +10,7 @@ models.
                           for mutli classsification of credibiltiy.
 - ./DPCNN            --> Contains the code word-level DPCNN model
 - ./CharCNN          --> Contains the code for char-CNN model.
-- ./Linguistic-model --> Contains the code for extracting socio-linguistc features from twitter events data.
+- ./Linguistic_features --> Contains the code for extracting socio-linguistc features from twitter events data.
 ```
 **_Requirements_**
 -----
