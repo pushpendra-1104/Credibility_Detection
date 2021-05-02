@@ -32,10 +32,10 @@ MAX_NB_WORDS = 20000
 EMBEDDING_DIM = 100
 VALIDATION_SPLIT = 0.25
 
-np.random.seed(12)
-server="/home/others/15EE10031/pushpendra/"
+# np.random.seed(12)
+server="/local/data/"
 
-##Load Socio linguistic features data which consist LIWC,Empath and other linguistic features.
+###Load Socio linguistic features data which consist LIWC,Empath and other linguistic features.
 data1=pd.read_csv(server+"features/Empath_features1.csv")
 data1=data1.drop(["Tag"],axis=1)
 data2=pd.read_csv(server+"features/features11.csv")
